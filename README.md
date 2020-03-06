@@ -3,7 +3,7 @@
 
 ## Run It
 
-```javascript
+```bash
 npm install
 node index.js
 # or for auto-restarting (nodemon install command is additional to basic npm install)
